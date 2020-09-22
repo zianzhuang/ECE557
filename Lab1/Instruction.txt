@@ -1,0 +1,11 @@
+# Due Oct.9 
+# 1 copy per team 
+
+- 	Matlab Code: all scripts in one ZIP folder (6 Pts)
+	(complete, correct, and the commentary and organization are adequate so that it is easy to read)
+
+- 	Presentation Video: 5-6 min video explaining the code (2 Pts)
+	(intelligible and displays an adequate understanding of the code and the lab;members contributions are well-connected)
+
+-	Lab report: A single PDF containing all simulated results and observation; names, PRA session on the first page (2 Pts)
+-	(complete and the commentary is adequate)
